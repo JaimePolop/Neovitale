@@ -1,0 +1,46 @@
+{
+  "testimonios": [
+    {
+      "nombre": "Monstse Fernández Rodríguez",
+      "fecha": "2025-02-19",
+      "texto": "La atención muy buena. Pilar es super atenta y cercana y siempre te ayuda a tomar la mejor decisión.",
+      "rating": 5,
+      "fuente": "Google"
+    },
+    {
+      "nombre": "MARIA JESUS",
+      "fecha": "2025-02-01",
+      "texto": "Gracias por tu ayuda y asesoramiento en la compra de productos para mi madre.",
+      "rating": 5,
+      "fuente": "Google"
+    },
+    {
+      "nombre": "Alejandro Pérez González",
+      "fecha": "2024-12-04",
+      "texto": "La atención y asesoramiento excelente. La dueña una persona excelente y muy profesional.",
+      "rating": 5,
+      "fuente": "Google"
+    },
+    {
+      "nombre": "Raúl Suárez González",
+      "fecha": "2024-10-26",
+      "texto": "Las dependientas son muy amables y simpáticas.",
+      "rating": 5,
+      "fuente": "Google"
+    },
+    {
+      "nombre": "Diana Seoane",
+      "fecha": "2024-10-16",
+      "texto": "Encuentras todo y lo que no hay te lo buscan. Excelente trato.",
+      "rating": 5,
+      "fuente": "Google"
+    },
+    {
+      "nombre": "Jose Sánchez",
+      "fecha": "2024-09-27",
+      "texto": "Muy buena atención y recomendación, la dependienta es amable y cercana.",
+      "rating": 5,
+      "fuente": "Google"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ayudas tecnicas | Neovitale</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Newsreader:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="icon" href="../assets/images/favicon.svg" />
+  <link rel="stylesheet" href="../assets/css/styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <a class="brand" href="../index.html">
+        <span class="brand__mark">N</span>
+        Neovitale
+      </a>
+      <nav class="nav__links">
+        <a href="../index.html">Inicio</a>
+        <div class="nav__item">
+          <a class="nav__link" href="./">Productos</a>
+          <button class="nav__caret" type="button" aria-haspopup="true" aria-expanded="false" aria-label="Abrir submenu de productos">▾</button>
+          <div class="nav__submenu">
+            <a href="ortopedia.html">Ortopedia</a>
+            <a href="herbolario.html">Herbolario</a>
+            <a href="parafarmacia.html">Parafarmacia</a>
+            <a href="calzado.html">Calzado comodo</a>
+            <a href="ayudas-tecnicas.html">Ayudas tecnicas</a>
+          </div>
+        </div>
+        <a href="../contacto.html">Contacto</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-hero">
+      <div class="container">
+        <h1 data-galeria-titulo>Productos</h1>
+        <p data-galeria-descripcion></p>
+      </div>
+    </section>
+
+    <section class="section" data-galeria="../data/galerias/ayudas-tecnicas.json" data-base="../">
+      <div class="container">
+        <div class="gallery reveal" data-animate></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container contact reveal" data-animate>
+        <div class="contact__item">
+          <div class="contact__icon">H</div>
+          <div>
+            <strong>Horario</strong>
+            <div>L - V: 10:00 - 14:00 / 17:30 - 20:30</div>
+            <div>S: 10:00 - 14:00</div>
+            <div>* Sabados tarde, domingos y festivos bajo llamada.</div>
+          </div>
+        </div>
+        <div class="contact__item">
+          <div class="contact__icon">D</div>
+          <div>
+            <strong>Direccion</strong>
+            <div>Avenida de Logrono 104, 28042 Madrid - Barajas</div>
+          </div>
+        </div>
+        <div class="contact__item">
+          <div class="contact__icon">T</div>
+          <div>
+            <strong>Telefonos</strong>
+            <div>911 62 54 85</div>
+            <div>Urgencias: 659 713 619</div>
+          </div>
+        </div>
+        <div class="contact__stack">
+          <div class="contact__item">
+            <div class="contact__icon">@</div>
+            <div>
+              <strong>Email</strong>
+              <div><a href="mailto:neovitale@gmail.com">neovitale@gmail.com</a></div>
+            </div>
+          </div>
+          <div class="contact__item contact__social">
+            <div class="contact__icon">R</div>
+            <div>
+              <strong>Redes</strong>
+              <div class="social-links">
+                <a class="social-btn" href="https://www.instagram.com/ortopedia_herbolario_barajas/" target="_blank" rel="noreferrer">
+                  <img class="social-btn__icon-img" src="../assets/images/logos-varios/logo-instagram_971166-164497.avif" alt="" aria-hidden="true" />
+                  Instagram
+                </a>
+                <a class="social-btn" href="https://www.facebook.com/people/NeoVitale-Ortopedia-Ayudas-Técnicas/pfbid082jXF9zBR2pF8TvyygYkAMLPVPXyWGWTuPtaLkNYN5SvZrt9BMWe36dqj4kuN1bsl/" target="_blank" rel="noreferrer">
+                  <span class="social-btn__icon" aria-hidden="true">f</span>
+                  Facebook
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div>Copyright © Neovitale</div>
+    <div class="footer__links">
+      <a href="../cookies.html">Politica de cookies</a>
+      <a href="../privacidad.html">Politica de privacidad</a>
+      <a href="../aviso-legal.html">Aviso legal</a>
+    </div>
+  </footer>
+
+  <script src="../assets/js/main.js"></script>
+  <script src="../assets/js/galeria.js"></script>
+</body>
+</html>

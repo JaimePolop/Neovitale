@@ -1,0 +1,34 @@
+{
+  "categorias": [
+    {
+      "titulo": "Ortopedia",
+      "descripcion": "Catalogo de productos",
+      "imagen": "assets/images/logos-varios/Ortopedia-Logo.png",
+      "href": "productos/ortopedia.html"
+    },
+    {
+      "titulo": "Ayudas tecnicas",
+      "descripcion": "Sillas de ruedas y andadores",
+      "imagen": "assets/images/logos-varios/Alquiler-Logo.png",
+      "href": "productos/ayudas-tecnicas.html"
+    },
+    {
+      "titulo": "Herbolario",
+      "descripcion": "Mieles ecologicas y complementos",
+      "imagen": "assets/images/logos-varios/Herbolario-Logo.png",
+      "href": "productos/herbolario.html"
+    },
+    {
+      "titulo": "Parafarmacia",
+      "descripcion": "Sistema inmune y nutricion",
+      "imagen": "assets/images/logos-varios/Parafarmacia-Logo.png",
+      "href": "productos/parafarmacia.html"
+    },
+    {
+      "titulo": "Calzado comodo",
+      "descripcion": "Ropa comoda y calcetines",
+      "imagen": "assets/images/logos-varios/CalozadoComodo-Logo.png",
+      "href": "productos/calzado.html"
+    }
+  ]
+}

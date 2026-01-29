@@ -1,0 +1,9 @@
+{
+  "titulo": "Ayudas Tecnicas",
+  "descripcion": "Sillas de ruedas, andadores y ayudas para el bano.",
+  "items": [
+    {"titulo": "Movilidad", "imagen": "assets/images/placeholder-producto.svg"},
+    {"titulo": "Bano", "imagen": "assets/images/placeholder-producto.svg"},
+    {"titulo": "Seguridad", "imagen": "assets/images/placeholder-producto.svg"}
+  ]
+}

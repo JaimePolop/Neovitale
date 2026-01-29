@@ -1,0 +1,9 @@
+{
+  "titulo": "Calzado Comodo",
+  "descripcion": "Calzado, ropa comoda y calcetines.",
+  "items": [
+    {"titulo": "Calzado diario", "imagen": "assets/images/placeholder-producto.svg"},
+    {"titulo": "Plantillas", "imagen": "assets/images/placeholder-producto.svg"},
+    {"titulo": "Calcetines", "imagen": "assets/images/placeholder-producto.svg"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "titulo": "Productos de Ortopedia",
+  "descripcion": "Ejemplos de productos para miembros superiores, inferiores y cuello/tronco.",
+  "items": [
+    {
+      "titulo": "Miembros superiores",
+      "imagen": "assets/images/Ortopedia.jpg"
+    },
+    {
+      "titulo": "Miembros inferiores",
+      "imagen": "assets/images/Ortopedia.jpg"
+    },
+    {
+      "titulo": "Cuello y tronco",
+      "imagen": "assets/images/Ortopedia.jpg"
+    }
+  ]
+}

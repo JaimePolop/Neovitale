@@ -1,0 +1,12 @@
+{
+  "marcas": [
+    {"nombre": "Calzamedi", "logo": "assets/images/logos-empresas/Calzamedi-1938.png"},
+    {"nombre": "Suecos", "logo": "assets/images/logos-empresas/Suecos-1939.png"},
+    {"nombre": "DonJoy", "logo": "assets/images/logos-empresas/DonJoy-1941.png"},
+    {"nombre": "Prim", "logo": "assets/images/logos-empresas/Prim-1944.png"},
+    {"nombre": "ElCross", "logo": "assets/images/logos-empresas/ElCross-1945.png"},
+    {"nombre": "Medi", "logo": "assets/images/logos-empresas/Medi-1947.png"},
+    {"nombre": "Comprelastic", "logo": "assets/images/logos-empresas/Comprelastic-2001.png"},
+    {"nombre": "Orliman", "logo": "assets/images/logos-empresas/Orliman-2004.png"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "titulo": "Productos de Parafarmacia",
+  "descripcion": "Nutricion, sistema inmune y cuidado diario.",
+  "items": [
+    {"titulo": "Nutricion", "imagen": "assets/images/placeholder-producto.svg"},
+    {"titulo": "Cuidado personal", "imagen": "assets/images/placeholder-producto.svg"},
+    {"titulo": "Salud diaria", "imagen": "assets/images/placeholder-producto.svg"}
+  ]
+}
