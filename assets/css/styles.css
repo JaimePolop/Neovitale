@@ -310,12 +310,36 @@ header {
   overflow: hidden;
 }
 
+.card--compact.card--blue {
+  background: #000177;
+}
+
+.card--compact.card--green {
+  background: #1a7f3c;
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.card--compact.card--orange {
+  background: #d96a00;
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
 .card__media {
   width: 120px;
   height: 90px;
   border-radius: 12px;
   overflow: hidden;
   background: #e5edff;
+}
+
+.card--green .card__media,
+.card--green .card__media--compact {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.card--orange .card__media,
+.card--orange .card__media--compact {
+  background: rgba(255, 255, 255, 0.14);
 }
 
 .card__media img {
@@ -335,6 +359,12 @@ header {
   color: var(--muted);
 }
 
+.card--blue .card__text,
+.card--green .card__text,
+.card--orange .card__text {
+  color: rgba(255, 255, 255, 0.85);
+}
+
 .card--compact .card__title {
   color: var(--white);
   font-size: 20px;
@@ -343,6 +373,14 @@ header {
 .card--compact .card__text {
   color: #cfe3ff;
   font-size: 16px;
+}
+
+.card--compact.card--green .card__text {
+  color: #e5f6ea;
+}
+
+.card--compact.card--orange .card__text {
+  color: #fff0df;
 }
 
 .card__media--compact {
@@ -915,6 +953,16 @@ footer {
   transition: transform 1.05s ease, box-shadow 1.05s ease, border-color 1.05s ease;
   position: relative;
   overflow: hidden;
+}
+
+.product-grid .card.card--green {
+  background: #1a7f3c;
+  box-shadow: 0 18px 40px rgba(26, 127, 60, 0.25);
+}
+
+.product-grid .card.card--orange {
+  background: #d96a00;
+  box-shadow: 0 18px 40px rgba(217, 106, 0, 0.25);
 }
 
 .product-grid .card__media {

@@ -23,11 +23,27 @@
     return el;
   }
 
+  function categoryClass(title) {
+    if (!title) return "";
+    var t = title.toLowerCase();
+    if (t.normalize) {
+      t = t.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    }
+    if (t.indexOf("ortopedia") >= 0 || t.indexOf("ayudas") >= 0) return "card--blue";
+    if (t.indexOf("herbolario") >= 0 || t.indexOf("parafarmacia") >= 0) return "card--green";
+    if (t.indexOf("calzado") >= 0) return "card--orange";
+    return "";
+  }
+
   function renderProducts(container, items, variant) {
     var base = container.getAttribute("data-base") || "";
     container.innerHTML = "";
     items.forEach(function (item) {
       var card = createEl("a", "card", "");
+      var colorClass = categoryClass(item.titulo);
+      if (colorClass) {
+        card.classList.add(colorClass);
+      }
       var href = item.href || "#";
       if (base && href && href.charAt(0) !== "#" && href.indexOf("http") !== 0 && href.charAt(0) !== "/") {
         href = base + href;
