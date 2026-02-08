@@ -2,8 +2,15 @@
   "titulo": "Productos de Parafarmacia",
   "descripcion": "Nutricion, sistema inmune y cuidado diario.",
   "items": [
-    {"titulo": "Nutricion", "imagen": "assets/images/placeholder-producto.svg"},
-    {"titulo": "Cuidado personal", "imagen": "assets/images/placeholder-producto.svg"},
-    {"titulo": "Salud diaria", "imagen": "assets/images/placeholder-producto.svg"}
+    {"titulo": "Mascarillas", "imagen": "assets/images/imagenes-parafarmacia/mascarillas.png"},
+    {"titulo": "Tensiometros y nebulizadores", "imagen": "assets/images/imagenes-parafarmacia/tensiometros-nebulizadores.png"},
+    {"titulo": "Desinfectante", "imagen": "assets/images/imagenes-parafarmacia/desinfectante.png"},
+    {"titulo": "Vendas y apositos", "imagen": "assets/images/imagenes-parafarmacia/vendas y apositos.png"},
+    {"titulo": "Mama y bebe", "imagen": "assets/images/imagenes-parafarmacia/mama-y-bebe.png"},
+    {"titulo": "Mascotas", "imagen": "assets/images/imagenes-parafarmacia/mascotas.png"},
+    {"titulo": "Medicion", "imagen": "assets/images/imagenes-parafarmacia/medicion.png"},
+    {"titulo": "Nutricosmetica", "imagen": "assets/images/imagenes-parafarmacia/nutricosmetica.png"},
+    {"titulo": "Nutrideportiva", "imagen": "assets/images/imagenes-parafarmacia/nutrideportiva.png"},
+    {"titulo": "Almohadillas y mantas electricas", "imagen": "assets/images/imagenes-parafarmacia/almohadillas-mantas-elec.png"}
   ]
 }

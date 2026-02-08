@@ -13,6 +13,12 @@
       "href": "productos/ayudas-tecnicas.html"
     },
     {
+      "titulo": "Indumentaria y material para personal sanitario",
+      "descripcion": "Indumentaria sanitaria, batas, calzado profesional y accesorios para el trabajo diario.",
+      "imagen": "assets/images/Camiseta-Sanitaria.png",
+      "href": "productos/indumentario-sanitario.html"
+    },
+    {
       "titulo": "Herbolario",
       "descripcion": "Mieles ecologicas, infusiones y complementos alimenticios para bienestar natural y cuidado diario.",
       "imagen": "assets/images/logos-varios/Herbolario-Logo.png",
@@ -29,6 +35,12 @@
       "descripcion": "Calzado comodo, ropa y calcetines para caminar mejor y con menos fatiga.",
       "imagen": "assets/images/logos-varios/CalozadoComodo-Logo.png",
       "href": "productos/calzado.html"
+    },
+    {
+      "titulo": "Moda comoda y ecologica",
+      "descripcion": "Ropa ecologica y comoda con materiales suaves para el dia a dia.",
+      "imagen": "assets/images/camiseta.png",
+      "href": "productos/moda-comoda.html"
     }
   ]
 }

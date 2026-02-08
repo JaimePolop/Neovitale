@@ -1,0 +1,18 @@
+{
+  "titulo": "INDUMENTARIA Y MATERIAL PARA PERSONAL SANITARIO",
+  "descripcion": "Batas, pijamas clinicos y accesorios para el trabajo sanitario.",
+  "items": [
+    {
+      "titulo": "Bata sanitaria",
+      "imagen": "assets/images/Camiseta-Sanitaria.png"
+    },
+    {
+      "titulo": "Pijama clinico",
+      "imagen": "assets/images/Camiseta-Sanitaria.png"
+    },
+    {
+      "titulo": "Accesorios",
+      "imagen": "assets/images/Camiseta-Sanitaria.png"
+    }
+  ]
+}

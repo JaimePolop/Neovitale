@@ -1,34 +1,46 @@
 {
   "categorias": [
     {
-      "titulo": "Ortopedia",
+      "titulo": "ORTOPEDIA",
       "descripcion": "",
       "imagen": "assets/images/logos-varios/Ortopedia-Logo.png",
       "href": "productos/ortopedia.html"
     },
     {
-      "titulo": "Ayudas tecnicas",
+      "titulo": "AYUDAS TÉCNICAS",
       "descripcion": "",
       "imagen": "assets/images/logos-varios/Alquiler-Logo.png",
       "href": "productos/ayudas-tecnicas.html"
     },
     {
-      "titulo": "Herbolario",
+      "titulo": "INDUMENTARIA Y MATERIAL PARA PERSONAL SANITARIO",
+      "descripcion": "",
+      "imagen": "assets/images/Camiseta-Sanitaria.png",
+      "href": "productos/indumentario-sanitario.html"
+    },
+    {
+      "titulo": "HERBOLARIO",
       "descripcion": "",
       "imagen": "assets/images/logos-varios/Herbolario-Logo.png",
       "href": "productos/herbolario.html"
     },
     {
-      "titulo": "Parafarmacia",
+      "titulo": "PARAFARMACIA",
       "descripcion": "",
       "imagen": "assets/images/logos-varios/Parafarmacia-Logo.png",
       "href": "productos/parafarmacia.html"
     },
     {
-      "titulo": "Calzado comodo",
+      "titulo": "CALZADO CÓMODO",
       "descripcion": "",
       "imagen": "assets/images/logos-varios/CalozadoComodo-Logo.png",
       "href": "productos/calzado.html"
+    },
+    {
+      "titulo": "MODA CÓMODA Y ECOLÓGICA",
+      "descripcion": "",
+      "imagen": "assets/images/camiseta.png",
+      "href": "productos/moda-comoda.html"
     }
   ]
 }

@@ -1,18 +1,46 @@
 {
   "titulo": "Productos de Ortopedia",
-  "descripcion": "Ejemplos de productos para miembros superiores, inferiores y cuello/tronco.",
+  "descripcion": "Categorias principales de ortopedia disponibles en tienda.",
   "items": [
     {
-      "titulo": "Miembros superiores",
-      "imagen": "assets/images/Ortopedia.jpg"
+      "titulo": "Tronco",
+      "imagen": "assets/images/imagenes-seccion-ortopedia/Tronco.jpg"
     },
     {
       "titulo": "Miembros inferiores",
-      "imagen": "assets/images/Ortopedia.jpg"
+      "imagen": "assets/images/imagenes-seccion-ortopedia/Miembros_Inferiores.jpg"
     },
     {
-      "titulo": "Cuello y tronco",
-      "imagen": "assets/images/Ortopedia.jpg"
+      "titulo": "Miembros superiores",
+      "imagen": "assets/images/imagenes-seccion-ortopedia/Miembros_superiores.jpg"
+    },
+    {
+      "titulo": "Cabeza y cuello",
+      "imagen": "assets/images/imagenes-seccion-ortopedia/Cabeza-cuello.jpg"
+    },
+    {
+      "titulo": "Mastectomia",
+      "imagen": "assets/images/imagenes-seccion-ortopedia/Mastectomia.jpg"
+    },
+    {
+      "titulo": "Podologia",
+      "imagen": "assets/images/imagenes-seccion-ortopedia/Podologia.jpg"
+    },
+    {
+      "titulo": "Medias y mangas de compresion",
+      "imagen": "assets/images/imagenes-seccion-ortopedia/Mangas_Compresion.jpg"
+    },
+    {
+      "titulo": "Alquiler",
+      "imagen": "assets/images/imagenes-seccion-ortopedia/Alquiler.jpg"
+    },
+    {
+      "titulo": "Ortopedia pediatrica",
+      "imagen": "assets/images/imagenes-seccion-ortopedia/Ortopedia_pediatrica.jpg"
+    },
+    {
+      "titulo": "Ortopedia deportiva",
+      "imagen": "assets/images/imagenes-seccion-ortopedia/ortopedia_deportiva.jpg"
     }
   ]
 }

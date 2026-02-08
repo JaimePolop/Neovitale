@@ -2,11 +2,11 @@
   "titulo": "Productos de Herbolario",
   "descripcion": "Mieles ecologicas, complementos alimenticios y bienestar natural.",
   "items": [
-    {"titulo": "Infusiones relajantes", "imagen": "assets/images/placeholder-producto.svg"},
-    {"titulo": "Miel ecologica", "imagen": "assets/images/placeholder-producto.svg"},
-    {"titulo": "Jalea real", "imagen": "assets/images/placeholder-producto.svg"},
-    {"titulo": "Complementos vitaminicos", "imagen": "assets/images/placeholder-producto.svg"},
-    {"titulo": "Extractos de plantas", "imagen": "assets/images/placeholder-producto.svg"},
-    {"titulo": "Aceites esenciales", "imagen": "assets/images/placeholder-producto.svg"}
+    {"titulo": "Alimentacion saludable", "imagen": "assets/images/imagenes-herbolario/alimentacion saludable.png"},
+    {"titulo": "Alimentacion para intolerantes", "imagen": "assets/images/imagenes-herbolario/alimentacion intolerantes.png"},
+    {"titulo": "Complementos alimenticios", "imagen": "assets/images/imagenes-herbolario/complementos alimenticios.png"},
+    {"titulo": "Plantas medicinales", "imagen": "assets/images/imagenes-herbolario/plantas nedicinales.png"},
+    {"titulo": "Aromaterapia", "imagen": "assets/images/imagenes-herbolario/aromaterapia.png"},
+    {"titulo": "Cosmetica natural", "imagen": "assets/images/imagenes-herbolario/cosmetica natural.png"}
   ]
 }

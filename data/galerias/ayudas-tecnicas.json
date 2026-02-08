@@ -1,9 +1,12 @@
 {
   "titulo": "Ayudas Tecnicas",
-  "descripcion": "Sillas de ruedas, andadores y ayudas para el bano.",
+  "descripcion": "Productos para mejorar la autonomia y seguridad en el dia a dia.",
   "items": [
-    {"titulo": "Movilidad", "imagen": "assets/images/placeholder-producto.svg"},
-    {"titulo": "Bano", "imagen": "assets/images/placeholder-producto.svg"},
-    {"titulo": "Seguridad", "imagen": "assets/images/placeholder-producto.svg"}
+    {"titulo": "Movilidad", "imagen": "assets/images/imagenes-seccion-ayudas/movilidad.png"},
+    {"titulo": "Aseo", "imagen": "assets/images/imagenes-seccion-ayudas/aseo.png"},
+    {"titulo": "Descanso", "imagen": "assets/images/imagenes-seccion-ayudas/descanso.png"},
+    {"titulo": "Vida diaria", "imagen": "assets/images/imagenes-seccion-ayudas/vida_diaria.png"},
+    {"titulo": "Rehabilitacion", "imagen": "assets/images/imagenes-seccion-ayudas/rehabilitacion.png"},
+    {"titulo": "Alquiler", "imagen": "assets/images/imagenes-seccion-ayudas/alquiler.png"}
   ]
 }

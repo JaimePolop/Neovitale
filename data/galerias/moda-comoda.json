@@ -1,0 +1,18 @@
+{
+  "titulo": "Moda comoda y ecologica",
+  "descripcion": "Prendas suaves, sostenibles y comodas para el dia a dia.",
+  "items": [
+    {
+      "titulo": "Camiseta ecologica",
+      "imagen": "assets/images/camiseta.png"
+    },
+    {
+      "titulo": "Sudadera suave",
+      "imagen": "assets/images/camiseta.png"
+    },
+    {
+      "titulo": "Pijama comodo",
+      "imagen": "assets/images/camiseta.png"
+    }
+  ]
+}

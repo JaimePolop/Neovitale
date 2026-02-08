@@ -31,7 +31,8 @@
     }
     if (t.indexOf("ortopedia") >= 0 || t.indexOf("ayudas") >= 0) return "card--blue";
     if (t.indexOf("herbolario") >= 0 || t.indexOf("parafarmacia") >= 0) return "card--green";
-    if (t.indexOf("calzado") >= 0) return "card--orange";
+    if (t.indexOf("indument") >= 0 || t.indexOf("sanitario") >= 0) return "card--sky";
+    if (t.indexOf("calzado") >= 0 || t.indexOf("moda") >= 0) return "card--orange";
     return "";
   }
 
@@ -41,8 +42,11 @@
     items.forEach(function (item) {
       var card = createEl("a", "card", "");
       var colorClass = categoryClass(item.titulo);
-      if (colorClass) {
-        card.classList.add(colorClass);
+        if (colorClass) {
+          card.classList.add(colorClass);
+        if (colorClass === "card--sky") {
+          card.style.background = "#66b8ff";
+        }
       }
       var href = item.href || "#";
       if (base && href && href.charAt(0) !== "#" && href.indexOf("http") !== 0 && href.charAt(0) !== "/") {
