@@ -82,6 +82,24 @@
         { titulo: "Utensilios de cocina", imagen: "assets/images/imagenes-seccion-ayudas/vida diaria/utensilios de cocina.png" },
         { titulo: "Vasos y tazas", imagen: "assets/images/imagenes-seccion-ayudas/vida diaria/vasos y tazas.png" },
         { titulo: "Varios", imagen: "assets/images/imagenes-seccion-ayudas/vida diaria/varios.png" }
+      ],
+      rehabilitacion: [
+        { titulo: "Balones de terapia", imagen: "assets/images/imagenes-seccion-ayudas/rehabilitacion/balones de terapia.png" },
+        { titulo: "Bandas elasticas", imagen: "assets/images/imagenes-seccion-ayudas/rehabilitacion/bandas elasticas.png" },
+        { titulo: "Bolas rehabilitadoras", imagen: "assets/images/imagenes-seccion-ayudas/rehabilitacion/bolas rehabilitadoras.png" },
+        { titulo: "Ejercitadores piernas", imagen: "assets/images/imagenes-seccion-ayudas/rehabilitacion/ejrcitadores piernas.png" },
+        { titulo: "Espirometros", imagen: "assets/images/imagenes-seccion-ayudas/rehabilitacion/espirometros.png" },
+        { titulo: "Masillas para el ejercicio", imagen: "assets/images/imagenes-seccion-ayudas/rehabilitacion/masillas para el ejercicio.png" },
+        { titulo: "Pedalier", imagen: "assets/images/imagenes-seccion-ayudas/rehabilitacion/pedalier.png" },
+        { titulo: "Vendajes neuromusculares", imagen: "assets/images/imagenes-seccion-ayudas/rehabilitacion/vendajes neuromusculares.png" },
+        { titulo: "Varios", imagen: "assets/images/imagenes-seccion-ayudas/rehabilitacion/varios.png" }
+      ],
+      alquiler: [
+        { titulo: "Andadores", imagen: "assets/images/imagenes-seccion-ayudas/alquiler/andadores.png" },
+        { titulo: "Camas articuladas", imagen: "assets/images/imagenes-seccion-ayudas/alquiler/camas articuladas.png" },
+        { titulo: "Gruas", imagen: "assets/images/imagenes-seccion-ayudas/alquiler/gruas.png" },
+        { titulo: "Muletas", imagen: "assets/images/imagenes-seccion-ayudas/alquiler/muletas.png" },
+        { titulo: "Sillas de ruedas", imagen: "assets/images/imagenes-seccion-ayudas/alquiler/sillas_de_ruedas.png" }
       ]
     };
     return byTitle[normalizeText(item && item.titulo)] || [];
